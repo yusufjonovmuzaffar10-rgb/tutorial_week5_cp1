@@ -13,3 +13,4 @@ currency = input("enter the currency code:")
 
 
 print_invoice(item, price, quantity, currency)
+print("Finished")
