@@ -16,9 +16,16 @@
 
 
 
-route_distance = int(input("Enter the route length: "))
-for i in range(10, route_distance +1, 10):
-    print(f"{i}  m")
+#route_distance = int(input("Enter the route length: "))
+#for i in range(10, route_distance +1, 10):
+#     print(f"{i}  m")
+
+length = int(input('Enter the route length: '))
+i =10 
+while i< length + 1:
+    print(f"{i} m ")
+    i = i+10
+
 
 
 
