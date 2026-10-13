@@ -12,7 +12,7 @@
 # print(playlist)
 
 # problem 3
-queue = ["Aziza", "Bekzod"]
-queue.append("Malika")
-print(f"Entered:{queue.pop(0)}")
-print(f"Remaining queue:{queue}")
+# queue = ["Aziza", "Bekzod"]
+# queue.append("Malika")
+# print(f"Entered:{queue.pop(0)}")
+# print(f"Remaining queue:{queue}")
