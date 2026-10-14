@@ -16,3 +16,14 @@
 # queue.append("Malika")
 # print(f"Entered:{queue.pop(0)}")
 # print(f"Remaining queue:{queue}")
+
+
+#problem 4
+# languages = ["uzbek", "english", "russian"]
+# l = input("Enter the language: ").lower()
+# if l in list(languages):
+#     print("Available")
+# else:
+#     print("Not available")
+
+
